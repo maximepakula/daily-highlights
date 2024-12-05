@@ -1,2 +1,8 @@
+# Env file
+.env
+
 # IntelliJ IDEA
 .idea
+
+# Build
+target
