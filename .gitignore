@@ -1,2 +1,5 @@
+# Env file
+.env
+
 # IntelliJ IDEA
 .idea
